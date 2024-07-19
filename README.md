@@ -24,6 +24,8 @@ Chap 5 Local quantum physics, Tianhua
 
 **Week 5**: 
 
+3pm Fri 7/26
+Unified Theory of Local Quantum Many-Body Dynamics: Eigenoperator Thermalization Theorems, Tianhua
 
 ---
 More topics:
